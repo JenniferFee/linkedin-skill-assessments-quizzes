@@ -1407,7 +1407,7 @@ class Lambo extends Car {
 - [ ] double
 - [x] BigDecimal
 
-#### Q101. Which statement about constructors is not ture?
+#### Q101. Which statement about constructors is not true?
 
 - [ ] A class can have multiple constructors with a different parameter list.
 - [ ] You can call another constructor with `this` or `super`.
